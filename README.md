@@ -75,7 +75,6 @@ The system generates a **reliability score, explanation, and structured analysis
 - pytesseract (OCR)
 - Pillow
 
----
 
 
-└── demo/                     # Screenshots + video
+
